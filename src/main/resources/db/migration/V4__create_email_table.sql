@@ -9,4 +9,4 @@ CREATE TABLE email (
     updated_by VARCHAR(255) NOT NULL,
     updated_date TIMESTAMP NOT NULL,
     mark_for_delete BOOLEAN NOT NULL
-)
+);
